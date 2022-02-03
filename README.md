@@ -7,8 +7,8 @@
 ************************************************************
 			 Réalisation
 - Axel CHANCEREL
-- Julien BAZIN
-- Clément BOUQUET
+- Julien BAZIN https://github.com/Ekktorp
+- Clément BOUQUET https://github.com/Fasory
 ************************************************************
 
 
