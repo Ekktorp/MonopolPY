@@ -1,19 +1,6 @@
 ************************************************************
              Merci d'avoir télécharger Monopoly
 ************************************************************
-
-
-
-************************************************************
-			 Réalisation
-- Axel CHANCEREL
-- Julien BAZIN https://github.com/Ekktorp
-- Clément BOUQUET https://github.com/Fasory
-************************************************************
-
-
-
-************************************************************
 			Informations
 
 	Pour lancer le jeu, veuillez double-cliquer sur le
@@ -35,19 +22,7 @@ IP du joueur qui sera l'hébergeur de la partie.
 
 2) Soit les PC qui ont exécuté le jeu sont à distance,
 auqeul cas il vous faudra simuler un réseau local sur
-internet. Pour cela il vous suffit simplement d'installer
-le logiciel Hamachi qui simulera un réseau local entre
-plusieurs PC.
-
-Télécharger Hamachi à ce lien : 
-https://www.vpn.net/
-
-Vous n'aurez plus qu'à vous connecter sur le réseau Hamachi
-de la personne qui aura créer le réseau local simulé.
-
-Pour plus d'aide, voir le lien ci-dessous :
-https://documentation.logmein.com/webhelp/FR/CentralUserGuide/
-LogMeIn/t_hamachi_nw_add.html
+internet. 
 
 ------------------------------------------------------------
 
